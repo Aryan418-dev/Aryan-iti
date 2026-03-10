@@ -87,7 +87,7 @@ ul li.active a{
 
 .registration-container {
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 90%;
@@ -326,7 +326,7 @@ header {
 
 .about-container {
     position: absolute;
-    top: 100%;
+    top: 150%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 90%;
